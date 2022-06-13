@@ -57,10 +57,10 @@
   - Comparação (>, <,>=,<=)
 
 4 - Condicional (if/else)
-    ex: _if(condição){
-    bloco
-  }else{
-    bloco se não ocorrer o bloco acima 
+    - _if(condição){
+bloco
+}else{
+bloco se não ocorrer o bloco acima 
   }_
 
 5 - Estrutura de dados
@@ -70,10 +70,10 @@
 
 
   - Object
-    ex: __const pessoa = {
-      nome: "Junior",
-      idade: 21,
-    }__
+    - _const pessoa = {
+nome: "Junior",
+idade: 21,
+    }_
 
 6 - Functions
   1. Criação 
