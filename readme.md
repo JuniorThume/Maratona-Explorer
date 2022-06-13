@@ -79,34 +79,34 @@
 6 - Functions
   1. Criação  
     ex:  
-      function nomeDaFuncao(){
-        bloco de execução
-    }
+      function nomeDaFuncao(){  
+        bloco de execução  
+    }  
 
-  2. Execução
-    ex:
-      nomeDaFuncao()
+  2. Execução  
+    ex:  
+      nomeDaFuncao()  
 
-  3. Parâmetros
-      function soma(a, b){
+  3. Parâmetros  
+      function soma(a, b){  
       return a + b  
-      }
+      }  
 
-7 - Extensões da linguagem (ex.: Math, Date, ...)
+7 - Extensões da linguagem (ex.: Math, Date, ...)  
 
-  ### Math.random()
-  ### Math.floor(1.2)
-  ### Math.ceil(1.2)
-  ### Math.PI
+  - Math.random()
+  - Math.floor(1.2)
+  - Math.ceil(1.2)
+  - Math.PI
 
 8 - DOM - Document Object Model
 
-  ### window
-  ### window.alert("alerta")
-  ### document
-  ### document.write("write")
-  ### manipular elementos
-  ### document.documentElement.style.background = "black"
+  - window
+  - window.alert("alerta")
+  - document
+  - document.write("write")
+  - manipular elementos
+  - document.documentElement.style.background = "black"
 
 
  
