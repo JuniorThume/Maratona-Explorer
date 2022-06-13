@@ -57,10 +57,10 @@
   - Comparação (>, <,>=,<=)
 
 4 - Condicional (if/else)
-    - _if(condição){
-bloco
-}else{
-bloco se não ocorrer o bloco acima 
+    - _if(condição){ ---
+bloco ---
+}else{ --- 
+bloco se não ocorrer o bloco acima--- 
   }_
 
 5 - Estrutura de dados
