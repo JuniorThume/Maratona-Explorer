@@ -6,7 +6,7 @@
   - atributos 
 
 ## Linguagem
-- maneira de escrever
+- Maneira de escrever
 - O que é HyperText?
 - O que é Markup?
 - O que é linguagem HTML?
