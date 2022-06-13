@@ -5,24 +5,22 @@
   - tags
   - atributos 
 
-### Linguagem
-  #### maneira de escrever
-
-
-### O que é HyperText?
-### O que é Markup?
-### O que é linguagem HTML?
+## Linguagem
+- maneira de escrever
+- O que é HyperText?
+- O que é Markup?
+- O que é linguagem HTML?
 
 # CSS
 
 ## Declaração
-### Seletor
-### Propriedade e valor
+  - Seletor
+  - Propriedade e valor
 
 ## Conceitos
-### Cascata
-### Especificidade
-### Box Model
+- Cascata
+- Especificidade
+- Box Model
 
 # JavaScript
 
@@ -31,51 +29,51 @@
     const meuNome = "Junior"
   
 2 - Tipos de dados
-  ### String
+  - String
     - ""
     - ''
 
-  ### Number
+  - Number
     - 12 - Integer (+ -)
     - 3.2 - Float (+ -)
 
-  ### Boolean
+  - Boolean
     - True e False
 
-  ### Undefined
+  - Undefined
 
 3 - Operador
-  ### Atribuição (=)
-    #### atribui valor a variável 
+  - Atribuição (=)
+    - atribui valor a variável 
 
-  ### Aritméticos
-    #### Soma +
-    #### Subtração -
-    #### Divisão /
-    #### Multiplicação *
+  - Aritméticos
+    - Soma +
+    - Subtração -
+    - Divisão /
+    - Multiplicação *
 
-  ### Concatenação de String (+)
+  - Concatenação de String (+)
 
-  ### Comparação (>, <,>=,<=)
+  - Comparação (>, <,>=,<=)
 
 4 - Condicional (if/else)
-  ### if(condição){
+    ex: _if(condição){
     bloco
   }else{
     bloco se não ocorrer o bloco acima 
-  }
+  }_
 
 5 - Estrutura de dados
-  ### Arrays
-  ### Vetor
-  ### Lista
+  - Arrays
+  - Vetor
+  - Lista
 
 
-  ### Object
-    ex: const pessoa = {
+  - Object
+    ex: __const pessoa = {
       nome: "Junior",
       idade: 21,
-    }
+    }__
 
 6 - Functions
   1. Criação 
