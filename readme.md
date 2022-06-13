@@ -58,10 +58,10 @@
 
 4 - Condicional (if/else) </br>
     - _if(condição){ </br>
-bloco </br>
-}else{ </br>
-bloco se não ocorrer o bloco acima</br> 
-  }_
+          bloco </br>
+      }else{ </br>
+          bloco se não ocorrer o bloco acima</br> 
+      }_
 
 5 - Estrutura de dados
   - Arrays
