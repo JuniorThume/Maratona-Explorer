@@ -77,11 +77,11 @@
     }_  
 
 6 - Functions
-  1. Criação 
-    ex:</br>
-      function nomeDaFuncao(){</br>
-        bloco de execução</br>
-    }</br>
+  1. Criação  
+    ex:  
+      function nomeDaFuncao(){
+        bloco de execução
+    }
 
   2. Execução
     ex:
