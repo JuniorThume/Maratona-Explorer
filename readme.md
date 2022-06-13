@@ -56,7 +56,8 @@
 
   - Comparação (>, <,>=,<=)
 
-4 - Condicional (if/else)  
+4 - Condicional 
+  - (if/else)  
      - _if(condição){  
     bloco  
       }else{  
