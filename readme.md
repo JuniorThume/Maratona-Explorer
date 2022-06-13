@@ -5,11 +5,11 @@
   - tags
   - atributos 
 
-## Linguagem
-- Maneira de escrever
-- O que é HyperText?
-- O que é Markup?
-- O que é linguagem HTML?
+- Linguagem
+  - Maneira de escrever
+  - O que é HyperText?
+  - O que é Markup?
+  - O que é linguagem HTML?
 
 # CSS
 
