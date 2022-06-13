@@ -70,10 +70,10 @@
 
 
   - Object</br>
-    - _const pessoa = { </br>
-nome: "Junior",</br>
-idade: 21,</br>
-    }_</br>
+    - _const pessoa = {  
+          nome: "Junior",  
+          idade: 21,  
+    }_  
 
 6 - Functions
   1. Criação 
