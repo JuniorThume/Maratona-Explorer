@@ -57,11 +57,11 @@
   - Comparação (>, <,>=,<=)
 
 4 - Condicional (if/else) </br>
-    - _if(condição){ </br>
-    <t><t>bloco </br>
-      <t>}else{ </br>
-         <t><t>bloco se não ocorrer o bloco acima</br> 
-      <t>}_
+    - _if(condição){  
+    bloco  
+      }else{  
+         bloco se não ocorrer o bloco acima  
+      }_  
 
 5 - Estrutura de dados
   - Arrays
