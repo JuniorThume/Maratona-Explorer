@@ -56,7 +56,7 @@
 
   - Comparação (>, <,>=,<=)
 
-4 - Condicional (if/else)
+4 - Condicional (if/else) </br>
     - _if(condição){ </br>
 bloco </br>
 }else{ </br>
@@ -69,18 +69,18 @@ bloco se não ocorrer o bloco acima</br>
   - Lista
 
 
-  - Object
-    - _const pessoa = {
-nome: "Junior",
-idade: 21,
-    }_
+  - Object</br>
+    - _const pessoa = { </br>
+nome: "Junior",</br>
+idade: 21,</br>
+    }_</br>
 
 6 - Functions
   1. Criação 
-    ex:
-      function nomeDaFuncao(){
-        bloco de execução
-    }
+    ex:</br>
+      function nomeDaFuncao(){</br>
+        bloco de execução</br>
+    }</br>
 
   2. Execução
     ex:
