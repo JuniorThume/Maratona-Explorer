@@ -2,8 +2,8 @@
 - HyperText Markup Language
 - Hiper Texto?
 - Marcação
-  -- tags
-  -- atributos 
+  - tags
+  - atributos 
 
 ### Linguagem
   #### maneira de escrever
