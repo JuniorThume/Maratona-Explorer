@@ -1,10 +1,9 @@
 # HTML
-### HyperText Markup Language
-
-### Hiper Texto?
-### Marcação
-  #### tags
-  #### atributos 
+- HyperText Markup Language
+- Hiper Texto?
+- Marcação
+  -- tags
+  -- atributos 
 
 ### Linguagem
   #### maneira de escrever
