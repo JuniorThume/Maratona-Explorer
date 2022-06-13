@@ -1,29 +1,29 @@
 # HTML
-- HyperText Markup Language
+### HyperText Markup Language
 
-- Hiper Texto?
-- Marcação
-  -tags
-  -atributos 
+### Hiper Texto?
+### Marcação
+  #### tags
+  #### atributos 
 
-- Linguagem
-  - maneira de escrever
+### Linguagem
+  #### maneira de escrever
 
 
-O que é HyperText?
-O que é Markup?
-O que é linguagem HTML?
+### O que é HyperText?
+### O que é Markup?
+### O que é linguagem HTML?
 
 # CSS
 
 ## Declaração
-- Seletor
-- Propriedade e valor
+### Seletor
+### Propriedade e valor
 
 ## Conceitos
-- Cascata
-- Especificidade
-- Box Model
+### Cascata
+### Especificidade
+### Box Model
 
 # JavaScript
 
