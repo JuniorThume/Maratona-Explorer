@@ -13,14 +13,14 @@
 
 # CSS
 
-## Declaração
+- Declaração
   - Seletor
   - Propriedade e valor
 
-## Conceitos
-- Cascata
-- Especificidade
-- Box Model
+- Conceitos
+  - Cascata
+  - Especificidade
+  - Box Model
 
 # JavaScript
 
